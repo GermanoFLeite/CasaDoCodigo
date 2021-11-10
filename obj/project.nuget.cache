@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "v6TOYUo/VAXLmhZauGptn8lcO1TvmuretUJkNbSWUMKR1e2NNFkSkBGBUDNIo1maN5tzDKtKNLGG8641a1v5WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TREINAMENTO19\\Desktop\\TimeDeGigantesWeb\\web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\5.0.11\\microsoft.aspnetcore.authentication.certificate.5.0.11.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\TREINAMENTO19\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
